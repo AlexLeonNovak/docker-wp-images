@@ -1,1 +1,3 @@
-# Docker Wrdpress PHP images
+# Docker Wordpress images
+
+PHP:8.3
